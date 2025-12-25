@@ -3,7 +3,7 @@
   --bg: white;            /* slate-900 */
   --panel: #053810;         /* gray-900 */
   --muted: #054719;         /* gray-800 */
-  --text: Blue;          /* slate-200 */
+  --text: ;  :rgb(82, 135, 214);          /* gray-200 */ 
   --text-dim: #4777b1;      /* slate-200 */
   --primary: #22c55e;       /* green-500 */
   --primary-700: #15803d;   /* green-700 */
@@ -304,4 +304,5 @@ input:focus, select:focus, textarea:focus {
   .nav-toggle-btn { display: inline-flex; }
   .nav-toggle:checked ~ .main-nav { display: block; }
 }
+
 
